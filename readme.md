@@ -9,13 +9,15 @@
 ### Component
 
 - ESP8266 CH2102
-![img](img\ch2102.JPG)
+![img](./img/ch2102.JPG)
+
+?raw=true
 
 - 4 Relays Module
-![img](img\4replays.PNG)
+![img](./img/4replays.PNG)
 
 - Power Supply 5/3.3V
-![img](img\pt.JPG)
+![img](./img/pt.JPG)
 
 - Jumping Wires
 
