@@ -59,3 +59,7 @@ GND - GND Power Supply
    - Enter the homekit serial number: 20010221 
 5. Unplug the MicroUSB line, then assemble all the components together, as well as the electric equipments you want to control.
 6. Get power supply, then it works.
+
+
+## Reference
+- https://opensourcelibs.com/libs/homekit
